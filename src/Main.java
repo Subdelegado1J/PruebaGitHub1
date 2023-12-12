@@ -4,7 +4,8 @@ public class Main {
 
         int hola = 4;
         int hola2 = 5;
+        int resultado = hola2 + hola;
 
-        System.out.println("Resultado de la suma: " + hola + hola2);
+        System.out.println("Resultado de la suma: " + resultado);
     }
 }
